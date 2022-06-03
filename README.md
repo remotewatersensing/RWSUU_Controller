@@ -16,4 +16,4 @@ Run the script in the terminal with:
 
 > go run main.go
 
-Connect your remote controller and
+Connect your remote controller and login to thingsboard to view the data updating in real time.
